@@ -1,0 +1,12 @@
+.maincontent {
+    background-color: lightblue;
+    width: 50%;
+    height: 300px;
+
+}
+
+.sidebar {
+    background-color: red;
+    width: 30%;
+    height: 300px;
+}
